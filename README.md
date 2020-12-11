@@ -3,7 +3,7 @@ Full stack open - Part 5
 
 Modules
 
-Login in frontend
-props.children and proptypes
-Testing React apps
-End to end -testing
+<li>Login in frontend</li>
+<li>props.children and proptypes</li>
+<li>Testing React apps</li>
+<li>End to end -testing</li>
